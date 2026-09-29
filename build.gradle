@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.liquidglasscam26'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.liquidglasscam26'
+        minSdk 30
+        targetSdk 30
+        versionCode 1
+        versionName '0.1'
+    }
+}
